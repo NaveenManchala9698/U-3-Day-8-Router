@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+
+}
+
+body {
+  background-color: rgb(33, 33, 33) !important;
+}
+
+.nav-link {
+  color: white !important
+}
+
+#movie-card {
+  background-color: inherit;
+}
+
+#movie-text {
+  color: azure
+}
